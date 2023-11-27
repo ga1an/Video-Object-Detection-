@@ -46,9 +46,13 @@
     python demo/demo.py base configs/vid_R_101_C4_1x.yaml R_101.pth --suffix ".JPEG" --visualize-path datasets/image_folder/ --output-folder visalization
 
 10) Running base and mega:
+    
    - Base:
+   
    python demo/demo.py base configs/vid_R_101_C4_1x.yaml R_101.pth --video --visualize-path datasets/video.avi --output-folder visualization [--output-video]
+   
    - Mega:
+   
    python demo/demo.py mega configs/vid_R_101_C4_1x.yaml R_101.pth --video --visualize-path datasets/video.avi --output-folder visualization [--output-video]
 
    Remeber to check that the .pth paths and the video paths are coherent with the ones on your directory. 
