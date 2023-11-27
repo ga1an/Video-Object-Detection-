@@ -29,7 +29,10 @@
     MEGA: https://drive.google.com/file/d/1ZnAdFafF1vW9Lnpw-RPF1AD_csw61lBY/view?usp=sharing
 
 6) Dowload and unzip additional matirials in model.pytorch/datasets directory:
+   
+    Can be found in the moodle page of the subject-> LABS -> Lab 2: Video object detection -> LAB2-Session1-Aditional material (https://posgrado.uam.es/mod/resource/view.php?id=908972)
 
+    Second option:
     https://drive.google.com/file/d/1HWknu9savYKZBne2pfLCPT9LlGRHnLXm/view?usp=sharing
 
 7) activate MEGA enviroment:
