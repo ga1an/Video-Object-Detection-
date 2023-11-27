@@ -35,11 +35,13 @@
     Second option:
     https://drive.google.com/file/d/1HWknu9savYKZBne2pfLCPT9LlGRHnLXm/view?usp=sharing
 
-7) activate MEGA enviroment:
+7) activate MEGA enviroment and move to mega.pytorch/ folder:
 
     conda activate MEGA
 
-8) Now you should be able to run the demo
+    cd mega.pytorch/
+   
+9) Now you should be able to run the demo
 
     python demo/demo.py base configs/vid_R_101_C4_1x.yaml R_101.pth --suffix ".JPEG" --visualize-path datasets/image_folder/ --output-folder visalization
 
