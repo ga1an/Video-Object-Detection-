@@ -8,31 +8,35 @@
    - First option: Code (green top right button) -> Dowload ZIP -> Place and unzip the file in a folder.
    - Second option: git clone https://github.com/ga1an/Video-Object-Detection-.git in a terminal place in the directory.
 
-2) Give right permisions to the bash file INSTRUCTIONS.sh:
+2) Move to the downloaded folder:
+
+   cd Video-Object-Dectection-/
+
+3) Give right permisions to the bash file INSTRUCTIONS.sh:
    
     chmod +x INSTRUCTIONS.sh
 
-3) Run INSTRUCTIONS.sh:
+4) Run INSTRUCTIONS.sh:
  
     ./INSTRUCTIONS.sh
 
    - Two confimation steps will appear. Write 'y' on the terminal in order to continue the instalation in both cases.
 
-4) Donwload and copy .pth inside model.pytorch/ directory:
+5) Donwload and copy .pth inside model.pytorch/ directory:
 
     baseline: https://drive.google.com/file/d/1W17f9GC60rHU47lUeOEfU--Ra-LTw3Tq/view?usp=sharing
 
     MEGA: https://drive.google.com/file/d/1ZnAdFafF1vW9Lnpw-RPF1AD_csw61lBY/view?usp=sharing
 
-5) Dowload and unzip additional matirials in model.pytorch/datasets directory:
+6) Dowload and unzip additional matirials in model.pytorch/datasets directory:
 
     https://drive.google.com/file/d/1HWknu9savYKZBne2pfLCPT9LlGRHnLXm/view?usp=sharing
 
-6) activate MEGA enviroment:
+7) activate MEGA enviroment:
 
     conda activate MEGA
 
-7) Now you should be able to run the demo
+8) Now you should be able to run the demo
 
     python demo/demo.py base configs/vid_R_101_C4_1x.yaml R_101.pth --suffix ".JPEG" --visualize-path datasets/image_folder/ --output-folder visalization
 
