@@ -16,6 +16,7 @@
    
     chmod +x INSTRUCTIONS.sh
 
+
 4) Run INSTRUCTIONS.sh:
  
     ./INSTRUCTIONS.sh
@@ -50,6 +51,7 @@
    - Base:
    
    python demo/demo.py base configs/vid_R_101_C4_1x.yaml R_101.pth --video --visualize-path datasets/video.avi --output-folder visualization [--output-video]
+
    
    - Mega:
    
