@@ -53,7 +53,7 @@
    
    - Mega:
    
-   python demo/demo.py mega configs/vid_R_101_C4_1x.yaml R_101.pth --video --visualize-path datasets/video.avi --output-folder visualization [--output-video]
+    python demo/demo.py mega configs/MEGA/vid_R_101_C4_MEGA_1x.yaml MEGA_R_101.pth --video --visualize-path datasets/video.avi --output-folder visualization [--output-video]
 
    Remeber to check that the .pth paths and the video paths are coherent with the ones on your directory. 
 
