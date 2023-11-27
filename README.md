@@ -29,7 +29,9 @@
 
 ## Running the code
 - Run demo:
-    python demo/demo.py base configs/vid_R_101_C4_1x.yaml R_101.pth --suffix ".JPEG" --visualize-path datasets/image_folder/ --output-folder visalization 
+
+     python demo/demo.py base configs/vid_R_101_C4_1x.yaml R_101.pth --suffix ".JPEG" --visualize-path datasets/image_folder/ --output-folder visalization 
+
 - Run BASIC model:
 
 - Run MEGA model:
