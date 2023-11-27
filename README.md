@@ -3,7 +3,10 @@
 
 ## Instalation
 
-1) Download and place INSTRUCTIONS.sh in a directory of your choice 
+1) Download and place INSTRUCTIONS.sh in a directory of your choice
+
+   - First option: Code (green top right button) -> Dowload ZIP -> Place and unzip the file in a folder.
+   - Second option: git clone https://github.com/ga1an/Video-Object-Detection-.git in a terminal place in the directory.
 
 2) Give right permisions to the bash file INSTRUCTIONS.sh:
    
