@@ -13,16 +13,17 @@
  
     ./INSTRUCTIONS.sh
 
-4) Donwload and copy .pth inside model.pytorch/:
+4) Donwload and copy .pth inside model.pytorch/ directory:
 
     baseline: https://drive.google.com/file/d/1W17f9GC60rHU47lUeOEfU--Ra-LTw3Tq/view?usp=sharing
+
     MEGA: https://drive.google.com/file/d/1ZnAdFafF1vW9Lnpw-RPF1AD_csw61lBY/view?usp=sharing
 
-5) Dowload and unzip additional matirials in model.pytorch/datasets:
+6) Dowload and unzip additional matirials in model.pytorch/datasets directory:
 
     https://drive.google.com/file/d/1HWknu9savYKZBne2pfLCPT9LlGRHnLXm/view?usp=sharing
 
-6) activate MEGA enviroment:
+7) activate MEGA enviroment:
 
     conda activate MEGA
 
