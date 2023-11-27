@@ -13,7 +13,9 @@
  
     ./INSTRUCTIONS.sh
 
-4) Donwload and copy .pth inside model.pytorch/ directory:
+   - Two confimation steps will appear. Write 'y' on the terminal in order to continue the instalation in both cases.
+
+5) Donwload and copy .pth inside model.pytorch/ directory:
 
     baseline: https://drive.google.com/file/d/1W17f9GC60rHU47lUeOEfU--Ra-LTw3Tq/view?usp=sharing
 
